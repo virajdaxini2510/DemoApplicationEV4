@@ -12,6 +12,7 @@ namespace DemoApplicationEV4
         public int RollNo;
         public string Name;
         public string Course;
+        public int fees;
 
         // Method 1 - Accept Student Details
         public void GetStudentData()
@@ -24,6 +25,9 @@ namespace DemoApplicationEV4
 
             Console.Write("Enter Course : ");
             Course = Console.ReadLine();
+
+            Console.Write("Enter Fees you paid : ");
+            fees = Convert.ToInt32(Console.ReadLine());
         }
 
         // Method 2 - Display Student Details
@@ -33,6 +37,7 @@ namespace DemoApplicationEV4
             Console.WriteLine("Roll Number : " + RollNo);
             Console.WriteLine("Student Name: " + Name);
             Console.WriteLine("Course      : " + Course);
+            Console.WriteLine("Your paid fees are      : " + fees);
         }
 
         // Main Method
