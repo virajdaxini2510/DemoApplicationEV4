@@ -1,0 +1,7 @@
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\obj\Debug\DemoApplicationEV4.csproj.AssemblyReference.cache
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\obj\Debug\DemoApplicationEV4.csproj.CoreCompileInputs.cache
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\bin\Debug\DemoApplicationEV4.exe.config
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\bin\Debug\DemoApplicationEV4.exe
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\bin\Debug\DemoApplicationEV4.pdb
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\obj\Debug\DemoApplicationEV4.exe
+E:\BE SEM 5 - 2026-2027\Testing\DemoApplicationEV4\obj\Debug\DemoApplicationEV4.pdb
